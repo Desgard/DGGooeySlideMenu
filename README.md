@@ -4,7 +4,7 @@
 
 DGGooeySlideMenu---模仿skype照相按钮弹出菜单弹簧效果
 
-相关思路的博文将在之后发布。可以及时到[我的博客](http://desgard.com)查看。
+制作思路及代码解释可查看博文[Recreating Skype's Action Sheet Animation](http://desgard.com/2016/06/05/DGGooeySlideMenu/)
 
 <img src="/Source/demo0.gif" alt="img" width="300px">
 
